@@ -1,0 +1,19 @@
+{
+    "name": "jonathan/saludo",
+    "description": "paquete sencillo que imprime mensaje de saludo",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jonathan\\Saludo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JonathanGabri",
+            "email": "alvaradojonathang08@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
